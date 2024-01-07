@@ -60,5 +60,6 @@ This project provides hands-on experience with key Python concepts:
 * Data Storage Structure: Passwords are now stored in a nested dictionary structure within the JSON file, providing a more organized way to manage and retrieve data.
 * Case Insensitivity: Website names are converted to lowercase during data storage, ensuring case-insensitive search and retrieval.
 * Enhanced User Interface: The UI remains user-friendly, but the code now ensures a more consistent and standardized experience for the users.
+* ![password_manager](updated_password_manager.png)
 ## Conclusion
 I hope you find the Password Manager and Password Generator helpful for managing your credentials securely! It's been a great journey reaching Day 29, and I'm excited to continue exploring and learning. Happy coding!
